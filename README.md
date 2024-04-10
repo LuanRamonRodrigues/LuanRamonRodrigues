@@ -28,7 +28,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luanrodriguesdevelop@gmail.com)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=https://LuanRamonRodrigues&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanRamonRodrigues&show_icons=true&theme=gotham)
 
 
 <!-- GIF -->
