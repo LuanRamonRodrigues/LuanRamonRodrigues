@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
   👋 Olá, sou o Luan Rodrigues, estudo Ciência da Computação.🌱
-🔭 Apaixonado por <Programação></Programação>
+🔭 Apaixonado por <Código>
 </p>
 
 <!-- Dropdown -->
