@@ -43,6 +43,8 @@
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    ![image](https://github.com/LuanRamonRodrigues/LuanRamonRodrigues/assets/165837424/25b5c121-5902-46a1-8572-29ceb3865fd6)
+
   </div>
   
   <!-- Skills: Tools & Frameworks -->
