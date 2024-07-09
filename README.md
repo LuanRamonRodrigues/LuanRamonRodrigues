@@ -6,8 +6,8 @@
 
 <!-- Presentation -->
 <p>
-  👋 Olá, sou o Luan Rodrigues, estudo Ciência da Computação pelo GRAN FACULDADE 🌱
-🔭 Estou em busca da minha primeira oportunidade de emprego na área de Programação
+  👋 Olá, sou o Luan Rodrigues, estudo Ciência da Computação.🌱
+🔭 Apaixonado por <Programação></Programação>
 </p>
 
 <!-- Dropdown -->
